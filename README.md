@@ -69,11 +69,10 @@ The pipeline follows a layered architecture:
 
 ## Repository Structure
 
-.
-├── Data_Ingestion.ipynb
-├── Data_Transformation.ipynb
-├── SQL To Gold Layer.sql
-├── README.md
+-- Data_Ingestion.ipynb
+-- Data_Transformation.ipynb
+-- SQL To Gold Layer.sql
+-- README.md
 
 ## Key Learnings
 
